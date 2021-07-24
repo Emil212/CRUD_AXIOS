@@ -1,0 +1,41 @@
+{
+  "santos": [
+    {
+      "nombre": "Ikki",
+      "constelacion": "Felix",
+      "id": 5
+    },
+    {
+      "nombre": "Mu",
+      "constelacion": "Aries",
+      "id": 6
+    },
+    {
+      "nombre": "Seiya",
+      "constelacion": "Pegaso",
+      "id": 7
+    }
+  ],
+  "dioses": [
+    {
+      "id": 1,
+      "nombre": "Athenea",
+      "de": "Tierra"
+    },
+    {
+      "id": 2,
+      "nombre": "Poseidon",
+      "de": "Mar"
+    },
+    {
+      "id": 3,
+      "nombre": "Hades",
+      "de": "Inframundo"
+    },
+    {
+      "id": 4,
+      "nombre": "Zeus",
+      "de": "Cielo"
+    }
+  ]
+}
