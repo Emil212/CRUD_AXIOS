@@ -1,11 +1,6 @@
 {
   "santos": [
     {
-      "nombre": "Ikki",
-      "constelacion": "Felix",
-      "id": 5
-    },
-    {
       "nombre": "Mu",
       "constelacion": "Aries",
       "id": 6
@@ -14,6 +9,46 @@
       "nombre": "Seiya",
       "constelacion": "Pegaso",
       "id": 7
+    },
+    {
+      "nombre": "Doko",
+      "constelacion": "Libras",
+      "id": 8
+    },
+    {
+      "nombre": "Shun",
+      "constelacion": "Andromeda",
+      "id": 9
+    },
+    {
+      "nombre": "Shyru",
+      "constelacion": "Dragon",
+      "id": 10
+    },
+    {
+      "nombre": "Camus",
+      "constelacion": "Acuario",
+      "id": 11
+    },
+    {
+      "nombre": "Aiora",
+      "constelacion": "Leo",
+      "id": 12
+    },
+    {
+      "nombre": "Milo",
+      "constelacion": "Escorpio",
+      "id": 14
+    },
+    {
+      "nombre": "Hyoga",
+      "constelacion": "Cisne",
+      "id": 15
+    },
+    {
+      "nombre": "Ikki",
+      "constelacion": "Aries",
+      "id": 26
     }
   ],
   "dioses": [
